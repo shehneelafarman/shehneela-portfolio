@@ -72,7 +72,7 @@ function App() {
 
           <div className="text-left px-4 max-w-2xl">
             <h2 className="font-bold mb-4 text-2xl sm:text-3xl lg:text-5xl text-gray-800 dark:text-white">Hi, I'm Shehneela</h2>
-            <p className="text-base text-gray-600 dark:text-gray-300">A Software Engineer with a strong focus on designing and developing scalable, efficient, and maintainable software solutions. With a strong foundation in full-stack development, I'm passionate about solving real-world problems through technology. I’m always eager to learn, grow, and contribute to impactful projects.</p>
+            <p className="text-base text-gray-600 dark:text-gray-300">Software Engineer with hands-on experience in Flutter, skilled in developing scalable and high-performance mobile applications. Passionate about creating impactful solutions and contributing effectively within a dynamic team environment.</p>
             <a
               href="/Shehneela-CV.pdf"
               download
