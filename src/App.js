@@ -139,7 +139,7 @@ function App() {
                 <h3 className="text-xl font-semibold text-gray-800 dark:text-white">
                   RiayaTech Islamabad <span className="text-sm text-gray-500 dark:text-gray-300">— Flutter developer</span>
                 </h3>
-                <p className="text-gray-500 dark:text-gray-300 mb-4">Nov 2024 - Present | On-site</p>
+                <p className="text-gray-500 dark:text-gray-300 mb-4">Nov 2025 - Present | On-site</p>
                 <ul className="list-disc list-inside space-y-1 text-gray-700 dark:text-gray-400">
                   <li>Flutter project structure, MVC, and state management with GetX.</li>
                   <li>Firebase integration and GitHub version control.</li>
@@ -154,7 +154,7 @@ function App() {
                 <h3 className="text-xl font-semibold text-gray-800 dark:text-white">
                   TeamsUp4Solutions Peshawar <span className="text-sm text-gray-500 dark:text-gray-300">— Software Developer Intern</span>
                 </h3>
-                <p className="text-gray-500 dark:text-gray-300 mb-4">Sep 2024 - Oct 2025 | 1 Months | On-site</p>
+                <p className="text-gray-500 dark:text-gray-300 mb-4">Sep 2025 - Oct 2025 | 1 Months | On-site</p>
                 <ul className="list-disc list-inside space-y-1 text-gray-700 dark:text-gray-400">
                   <li>Assisted in customizing Odoo modules (Sales, CRM, and Accounting) using Python and XML.</li>
                   <li>Designed and modified QWeb reports and form views tomeet business requirements.</li>
