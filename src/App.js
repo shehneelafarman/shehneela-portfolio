@@ -94,7 +94,9 @@ function App() {
 
         <hr className="border-gray-300 dark:border-gray-800" />
 
-        {/* Education Section */}
+        {/* ============================================ */}
+        {/* ========Education Section=================== */}
+        {/* ============================================ */}
         <section id="education" className="py-20 bg-gray-100 dark:bg-black px-4">
           <div className="max-w-4xl mx-auto text-center">
             <h2 className="text-3xl font-bold mb-6 text-gray-800 dark:text-white">Education</h2>
@@ -106,7 +108,9 @@ function App() {
 
         <hr className="border-gray-300 dark:border-gray-800" />
 
-        {/* Skills Section */}
+        {/* ============================================ */}
+        {/* =============Skills Section================= */}
+        {/* ============================================ */}
         <section id='skills' className="py-20 bg-gray-200 dark:bg-black px-4">
           <div className="max-w-6xl mx-auto text-center">
             <h2 className="text-3xl font-bold mb-6 text-gray-800 dark:text-white">Technical Skills</h2>
@@ -115,8 +119,9 @@ function App() {
         </section>
 
         <hr className="border-gray-300 dark:border-gray-800" />
-
-        {/* Professional Experience Section */}
+        {/* ============================================ */}
+        {/* =======Professional Experience Section====== */}
+        {/* ============================================ */}
         <section id="professionalexperience" className="py-20 bg-gray-100 dark:bg-black px-4">
           <div className="max-w-4xl mx-auto text-center">
             <h2 className="text-3xl font-bold mb-10 text-gray-800 dark:text-white">Professional Experience</h2>
@@ -127,7 +132,7 @@ function App() {
             <div className="absolute left-6 top-0 h-full border-l-4 border-gray-800 dark:border-gray-300"></div>
 
 
-            {/* Internship 1 */}
+            {/* Experience 1 */}
             <div className="mb-12 ml-12 relative">
               <div className="absolute -left-7 top-2 w-6 h-6 bg-gray-800 rounded-full border-4 border-white"></div>
               <div className="bg-white dark:bg-gray-800 shadow-lg rounded-lg p-6 hover:shadow-xl transition-shadow duration-300 mr-4">
@@ -142,7 +147,7 @@ function App() {
               </div>
             </div>
 
-            {/* Internship 2 */}
+            {/* Experience 2 */}
             <div className="mb-12 ml-12 relative">
               <div className="absolute -left-7 top-2 w-6 h-6 bg-gray-800 rounded-full border-4 border-white"></div>
               <div className="bg-white dark:bg-gray-800 shadow-lg rounded-lg p-6 hover:shadow-xl transition-shadow duration-300 mr-4">
@@ -157,7 +162,7 @@ function App() {
               </div>
             </div>
 
-            {/* Internship 3 */}
+            {/* Experience 3 */}
             <div className="mb-12 ml-12 relative">
               <div className="absolute -left-7 top-2 w-6 h-6 bg-gray-800 rounded-full border-4 border-white"></div>
               <div className="bg-white dark:bg-gray-800 shadow-lg rounded-lg p-6 hover:shadow-xl transition-shadow duration-300 mr-4">
@@ -173,7 +178,7 @@ function App() {
               </div>
             </div>
 
-            {/* Internship 4 */}
+            {/* Experience 4 */}
             <div className="ml-12 relative">
               <div className="absolute -left-7 top-2 w-6 h-6 bg-gray-800 rounded-full border-4 border-white"></div>
               <div className="bg-white dark:bg-gray-800 shadow-lg rounded-lg p-6 hover:shadow-xl transition-shadow duration-300 mr-4">
@@ -191,7 +196,9 @@ function App() {
 
         <hr className="border-gray-300 dark:border-gray-800" />
 
-        {/* Projects Section */}
+        {/* ============================================ */}
+        {/* ===========Projects Section================= */}
+        {/* ============================================ */}
         <section id="projects" className="py-20 bg-gray-200 dark:bg-black px-4">
           <div className="max-w-6xl mx-auto">
             <h2 className="text-3xl font-bold text-center mb-12 text-gray-800 dark:text-white">Projects</h2>
@@ -301,7 +308,9 @@ function App() {
 
         <hr className="border-gray-300 dark:border-gray-800" />
 
-        {/* Contact Section */}
+        {/* ============================================ */}
+        {/* ============Contact Section================= */}
+        {/* ============================================ */}
         <section className="bg-gray-300 dark:bg-black py-12 px-4" id="contact">
           <div className="max-w-5xl mx-auto text-center">
             <h2 className="text-3xl font-bold text-gray-800 dark:text-white">Get In Touch</h2>
@@ -345,7 +354,9 @@ function App() {
       </main>
       <hr className="border-gray-300 dark:border-gray-800" />
 
-      {/* Footer */}
+      {/* ============================================ */}
+      {/* =================Footer===================== */}
+      {/* ============================================ */}
       <footer className="bg-gray-800 dark:bg-black text-center py-4 text-sm text-white">
         Shehneela Farman &copy; {new Date().getFullYear()}
       </footer>
