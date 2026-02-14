@@ -137,8 +137,9 @@ function App() {
               <div className="absolute -left-7 top-2 w-6 h-6 bg-gray-800 rounded-full border-4 border-white"></div>
               <div className="bg-white dark:bg-gray-800 shadow-lg rounded-lg p-6 hover:shadow-xl transition-shadow duration-300 mr-4">
                 <h3 className="text-xl font-semibold text-gray-800 dark:text-white">
-                  RiayaTech Islamabad <span className="text-sm text-gray-500 dark:text-gray-300">— Flutter developer</span>
+                  RiayaTech Islamabad
                 </h3>
+                <span className="text-sm text-gray-500 dark:text-gray-300">Flutter developer</span>
                 <p className="text-gray-500 dark:text-gray-300 mb-4">Nov 2025 - Present | On-site</p>
                 <ul className="list-disc list-inside space-y-1 text-gray-700 dark:text-gray-400">
                   <li>Flutter project structure, MVC, and state management with GetX.</li>
@@ -152,8 +153,9 @@ function App() {
               <div className="absolute -left-7 top-2 w-6 h-6 bg-gray-800 rounded-full border-4 border-white"></div>
               <div className="bg-white dark:bg-gray-800 shadow-lg rounded-lg p-6 hover:shadow-xl transition-shadow duration-300 mr-4">
                 <h3 className="text-xl font-semibold text-gray-800 dark:text-white">
-                  TeamsUp4Solutions Peshawar <span className="text-sm text-gray-500 dark:text-gray-300">— Software Developer Intern</span>
+                  TeamsUp4Solutions Peshawar
                 </h3>
+                <span className="text-sm text-gray-500 dark:text-gray-300">Software Developer Intern</span>
                 <p className="text-gray-500 dark:text-gray-300 mb-4">Sep 2025 - Oct 2025 | 1 Months | On-site</p>
                 <ul className="list-disc list-inside space-y-1 text-gray-700 dark:text-gray-400">
                   <li>Assisted in customizing Odoo modules (Sales, CRM, and Accounting) using Python and XML.</li>
@@ -167,8 +169,9 @@ function App() {
               <div className="absolute -left-7 top-2 w-6 h-6 bg-gray-800 rounded-full border-4 border-white"></div>
               <div className="bg-white dark:bg-gray-800 shadow-lg rounded-lg p-6 hover:shadow-xl transition-shadow duration-300 mr-4">
                 <h3 className="text-xl font-semibold text-gray-800 dark:text-white">
-                  ESoftage Lahore <span className="text-sm text-gray-500 dark:text-gray-300">— Mobile App Developer Intern</span>
+                  ESoftage Lahore
                 </h3>
+                <span className="text-sm text-gray-500 dark:text-gray-300">Mobile App Developer Intern</span>
                 <p className="text-gray-500 dark:text-gray-300 mb-4">July 2024 - Aug 2024 | 2 Months | On-site</p>
                 <ul className="list-disc list-inside space-y-1 text-gray-700 dark:text-gray-400">
                   <li>Designed UI using Adobe XD</li>
@@ -183,8 +186,9 @@ function App() {
               <div className="absolute -left-7 top-2 w-6 h-6 bg-gray-800 rounded-full border-4 border-white"></div>
               <div className="bg-white dark:bg-gray-800 shadow-lg rounded-lg p-6 hover:shadow-xl transition-shadow duration-300 mr-4">
                 <h3 className="text-xl font-semibold text-gray-800 dark:text-white">
-                  GigaLabs (Pvt) Ltd Lahore <span className="text-sm text-gray-500 dark:text-gray-300">— Backend Developer Intern</span>
+                  GigaLabs (Pvt) Ltd Lahore
                 </h3>
+                <span className="text-sm text-gray-500 dark:text-gray-300">Backend Developer Intern</span>
                 <p className="text-gray-500 dark:text-gray-300 mb-4">Jan 2024 - Feb 2024 | 1 Month | On-site</p>
                 <ul className="list-disc list-inside space-y-1 text-gray-700 dark:text-gray-400">
                   <li>Built an Employee Management System using Python (OOP) with database integration</li>
