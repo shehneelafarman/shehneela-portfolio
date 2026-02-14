@@ -156,7 +156,7 @@ function App() {
                   TeamsUp4Solutions Peshawar
                 </h3>
                 <span className="text-sm text-gray-500 dark:text-gray-300">Software Developer Intern</span>
-                <p className="text-gray-500 dark:text-gray-300 mb-4">Sep 2025 - Oct 2025 | 1 Months | On-site</p>
+                <p className="text-gray-500 dark:text-gray-300 mb-4">Sep 2025 - Oct 2025 | 1 Month | On-site</p>
                 <ul className="list-disc list-inside space-y-1 text-gray-700 dark:text-gray-400">
                   <li>Assisted in customizing Odoo modules (Sales, CRM, and Accounting) using Python and XML.</li>
                   <li>Designed and modified QWeb reports and form views tomeet business requirements.</li>
