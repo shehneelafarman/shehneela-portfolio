@@ -7,7 +7,7 @@ const skillCategories = [
       { name: "HTML", icon: "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg", level: 90 },
       { name: "CSS", icon: "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg", level: 85 },
       { name: "Tailwind CSS", icon: "https://avatars.githubusercontent.com/u/67109815?s=200&v=4", level: 80 },
-      { name: "React.js", icon: "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg", level: 85 },
+      { name: "React.js", icon: "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg", level: 75 },
       { name: "Flutter", icon: "https://cdn.postindustria.com/wp-content/uploads/2020/12/Flutter-2.jpg", level: 85 },
       { name: "React Native", icon: "https://reactnative.dev/img/header_logo.svg", level: 80 },
     ],
