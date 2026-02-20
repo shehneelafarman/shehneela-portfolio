@@ -1,44 +1,34 @@
 const skillCategories = [
   {
-    title: "Programming Languages",
+    title: "Programming & Frontend Development",
     skills: [
       { name: "Dart", icon: "https://cdn3d.iconscout.com/3d/free/thumb/free-dart-3d-icon-png-download-7578014.png", level: 85 },
       { name: "Python", icon: "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg", level: 80 },
       { name: "JavaScript", icon: "https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg", level: 85 },
-    ],
-  },
-  {
-    title: "Frontend Development",
-    skills: [
       { name: "HTML", icon: "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg", level: 90 },
       { name: "CSS", icon: "https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg", level: 85 },
       { name: "Tailwind CSS", icon: "https://avatars.githubusercontent.com/u/67109815?s=200&v=4", level: 80 },
       { name: "React.js", icon: "https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg", level: 85 },
-    ],
-  },
-  {
-    title: "Mobile Development",
-    skills: [
       { name: "Flutter", icon: "https://cdn.postindustria.com/wp-content/uploads/2020/12/Flutter-2.jpg", level: 85 },
       { name: "React Native", icon: "https://reactnative.dev/img/header_logo.svg", level: 80 },
-      { name: "Android Studio", icon: "https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg", level: 75 },
     ],
   },
   {
-    title: "Backend & Database",
+    title: "Backend & APIs",
     skills: [
       { name: "Flask", icon: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmD38KsMgEwahtWc_Nfs5ZVktP9dBc36MUZA&s", level: 80 },
-      { name: "MongoDB", icon: "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg", level: 75 },
       { name: "Firebase", icon: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2_Ho-GIw7Apr1c6B6yYl3mC-vPW4X2jCh2Q&s", level: 85 },
     ],
   },
   {
-    title: "Version Control & Dev Tools",
+    title: "Databases & Version Control",
     skills: [
+      { name: "MongoDB", icon: "https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg", level: 75 },
       { name: "Git", icon: "https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg", level: 85 },
       { name: "GitHub", icon: "https://e7.pngegg.com/pngimages/914/758/png-clipart-computer-icons-logo-github-github-logo-logo-computer-program-thumbnail.png", level: 90 },
       { name: "Bitbucket", icon: "https://cdn.worldvectorlogo.com/logos/bitbucket-icon.svg", level: 75 },
       { name: "Postman", icon: "https://www.svgrepo.com/show/354202/postman-icon.svg", level: 80 },
+      { name: "Vercel", icon: "https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg", level: 80 },
     ],
   },
   {
@@ -50,9 +40,11 @@ const skillCategories = [
       { name: "Trello", icon: "https://cdn.worldvectorlogo.com/logos/trello.svg", level: 80 },
       { name: "Jira", icon: "https://cdn.worldvectorlogo.com/logos/jira-1.svg", level: 75 },
       { name: "Slack", icon: "https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg", level: 85 },
+      { name: "Android Studio", icon: "https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg", level: 75 },
     ],
   },
 ];
+
 
 
 export default function Skills() {
