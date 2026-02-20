@@ -216,12 +216,12 @@ function App() {
                 <p className="text-xs text-gray-600 dark:text-gray-300 mt-3">
                   <p className='font-bold  text-gray-800 dark:text-white text-center'>Tools & Technologies used:</p>Flutter, Firebase, Notifications, AI Integration
                 </p>
-                <a
+                {/* <a
                   href="https://github.com/shehneelafarman/twzn.ai"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-block mt-4 px-4 py-2 bg-green-600 text-white text-sm font-medium rounded hover:bg-green-700 transition"
-                >View on GitHub </a>
+                >View on GitHub </a> */}
               </div>
 
               <div className="p-4 border rounded-lg bg-white dark:bg-gray-800 shadow hover:shadow-lg transition text-center">
@@ -232,12 +232,12 @@ function App() {
                 <p className="text-xs text-gray-600 dark:text-gray-300 mt-3">
                   <p className='font-bold  text-gray-800 dark:text-white text-center'>Tools & Technologies used:</p>Adobe XD, React Native, Flask, Python, Postman, Git, Github, Android Studio, MongoDB Compass
                 </p>
-                <a
+                {/* <a
                   href="https://github.com/shehneelafarman/CryptoAnalyzer"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-block mt-4 px-4 py-2 bg-green-600 text-white text-sm font-medium rounded hover:bg-green-700 transition"
-                >View on GitHub </a>
+                >View on GitHub </a> */}
               </div>
 
               <div className="p-4 border rounded-lg bg-white dark:bg-gray-800 shadow hover:shadow-lg transition text-center">
@@ -248,12 +248,12 @@ function App() {
                 <p className="text-xs text-gray-600 dark:text-gray-300 mt-3">
                   <p className='font-bold  text-gray-800 dark:text-white text-center'>Tools & Technologies used:</p>ReactJS, HTML, TailwindCSS
                 </p>
-                <a
+                {/* <a
                   href="https://github.com/shehneelafarman/shehneela-portfolio"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-block mt-4 px-4 py-2 bg-green-600 text-white text-sm font-medium rounded hover:bg-green-700 transition"
-                >View on GitHub </a>
+                >View on GitHub </a> */}
               </div>
 
 
@@ -282,12 +282,12 @@ function App() {
                 <p className="text-xs text-gray-600 dark:text-gray-300 mt-3">
                   <p className='font-bold text-gray-800 dark:text-white text-center'>Tools & Technologies used:</p>HTML, CSS, JS
                 </p>
-                <a
+                {/* <a
                   href="https://github.com/shehneelafarman/COMSATS-UI-Clone"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-block mt-4 px-4 py-2 bg-green-600 text-white text-sm font-medium rounded hover:bg-green-700 transition"
-                >View on GitHub </a>
+                >View on GitHub </a> */}
               </div>
 
               <div className="p-4 border rounded-lg bg-white dark:bg-gray-800 shadow hover:shadow-lg transition text-center">
@@ -298,12 +298,12 @@ function App() {
                 <p className="text-xs text-gray-600 dark:text-gray-300 mt-3">
                   <p className='font-bold  text-gray-800 dark:text-white text-center'>Tools & Technologies used:</p>HTML, CSS, JS
                 </p>
-                <a
+                {/* <a
                   href="https://github.com/shehneelafarman/Amazon-UI-Clone"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="inline-block mt-4 px-4 py-2 bg-green-600 text-white text-sm font-medium rounded hover:bg-green-700 transition"
-                >View on GitHub </a>
+                >View on GitHub </a> */}
               </div>
 
             </div>
